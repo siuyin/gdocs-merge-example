@@ -1,0 +1,4 @@
+*.swp
+*secret*
+credentials.json
+token.json
